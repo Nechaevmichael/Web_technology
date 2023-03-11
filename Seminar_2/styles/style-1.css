@@ -5,3 +5,15 @@
 .cat2 {
     width: 328px;
 }
+
+body {
+    background: rgb(105, 176, 235);
+}
+
+.mainHeader {
+    color: darkcyan;
+}
+
+.secondHeader {
+    color: aquamarine;
+}
